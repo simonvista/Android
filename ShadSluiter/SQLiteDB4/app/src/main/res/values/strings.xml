@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLiteDB4</string>
+    <string name="Name">Name</string>
+    <string name="Age">Age</string>
+    <string name="ActiveCustomer">ActiveCustomer</string>
+    <string name="ViewAll">ViewAll</string>
+    <string name="AddOne">AddOne</string>
+</resources>
